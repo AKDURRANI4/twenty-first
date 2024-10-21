@@ -1,0 +1,5 @@
+print ("hello"!)
+print ("wordl!")
+print (3+3)
+print ("after chnages, furher xhanges")
+print ("after the last")
